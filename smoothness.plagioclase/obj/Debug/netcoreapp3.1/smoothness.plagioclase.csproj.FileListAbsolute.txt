@@ -1,0 +1,10 @@
+C:\Users\Rynhard\Downloads\smoothness.plagioclase\bin\Debug\netcoreapp3.1\smoothness.plagioclase.deps.json
+C:\Users\Rynhard\Downloads\smoothness.plagioclase\bin\Debug\netcoreapp3.1\smoothness.plagioclase.dll
+C:\Users\Rynhard\Downloads\smoothness.plagioclase\bin\Debug\netcoreapp3.1\smoothness.plagioclase.pdb
+C:\Users\Rynhard\Downloads\smoothness.plagioclase\obj\Debug\netcoreapp3.1\smoothness.plagioclase.csproj.AssemblyReference.cache
+C:\Users\Rynhard\Downloads\smoothness.plagioclase\obj\Debug\netcoreapp3.1\smoothness.plagioclase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rynhard\Downloads\smoothness.plagioclase\obj\Debug\netcoreapp3.1\smoothness.plagioclase.AssemblyInfoInputs.cache
+C:\Users\Rynhard\Downloads\smoothness.plagioclase\obj\Debug\netcoreapp3.1\smoothness.plagioclase.AssemblyInfo.cs
+C:\Users\Rynhard\Downloads\smoothness.plagioclase\obj\Debug\netcoreapp3.1\smoothness.plagioclase.csproj.CoreCompileInputs.cache
+C:\Users\Rynhard\Downloads\smoothness.plagioclase\obj\Debug\netcoreapp3.1\smoothness.plagioclase.dll
+C:\Users\Rynhard\Downloads\smoothness.plagioclase\obj\Debug\netcoreapp3.1\smoothness.plagioclase.pdb
